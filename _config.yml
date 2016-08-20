@@ -1,4 +1,3 @@
-layout_spectrum: 0.7722420343197882
 typography_spectrum: 0.4411883521825075
 color:
   brandStrength: 0.6404030304402113
@@ -6,9 +5,11 @@ color:
   saturation: 0.8978652933146805
   rhythmicContrast: 0.5012006985489279
   brandColors:
-    - '#000000'
-    - '#009A40'
-    - '#475A63'
-    - '#D2C2BE'
-    - '#FCFCFC'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.7722420343197882
 name: Journey of a Juggler
+title: Harmless Stories
