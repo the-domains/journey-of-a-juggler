@@ -28,5 +28,8 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Liam.Fate.Selvey/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/LiamFateSelvey'
+    type: external
 title: Journey of a Juggler
 description: Tall Tales Truthfully Told
