@@ -22,14 +22,14 @@ author:
   email: ''
 name: Harmless Stories
 navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/Danger.Juggling.Show/'
+    type: external
   - name: Twitter
     url: 'https://twitter.com/LiamFateSelvey'
     type: external
   - name: Instagram
     url: 'https://www.instagram.com/liamfateselvey/'
-    type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/Danger.Juggling.Show/'
     type: external
   - name: Hire Me!
     url: dangerjugglingshow.com
