@@ -1,9 +1,6 @@
-name: Harmless Stories
-layout_spectrum: 0.6657695756293833
 typography_spectrum: 0.6459500987548381
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#468966'
@@ -15,13 +12,15 @@ color:
   lightness: 0.5838704751804471
   saturation: 0.14527779584750533
   rhythmicContrast: 0.2646464242134243
-title: Journey of a Juggler
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.6657695756293833
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+name: Harmless Stories
 navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Danger.Juggling.Show/'
@@ -35,3 +34,4 @@ navigation:
   - name: Hire Me!
     url: dangerjugglingshow.com
     type: external
+title: A Dangerous Impulse
