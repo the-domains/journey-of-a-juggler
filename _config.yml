@@ -21,5 +21,9 @@ author:
   url: ''
   email: ''
 name: Harmless Stories
+navigation:
+  - name: Hire Me!
+    url: dangerjugglingshow.com
+    type: external
 title: Journey of a Juggler
 description: Tall Tales Truthfully Told
