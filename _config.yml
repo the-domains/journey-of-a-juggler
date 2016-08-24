@@ -22,9 +22,6 @@ author:
   email: ''
 name: Harmless Stories
 navigation:
-  - name: Hire Me!
-    url: dangerjugglingshow.com
-    type: external
   - name: Facebook
     url: 'https://www.facebook.com/Liam.Fate.Selvey/'
     type: external
@@ -33,6 +30,9 @@ navigation:
     type: external
   - name: Instagram
     url: 'https://www.instagram.com/liamfateselvey/'
+    type: external
+  - name: Hire Me!
+    url: dangerjugglingshow.com
     type: external
 title: Journey of a Juggler
 description: Tall Tales Truthfully Told
