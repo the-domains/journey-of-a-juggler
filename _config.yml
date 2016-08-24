@@ -22,9 +22,6 @@ author:
   email: ''
 name: Harmless Stories
 navigation:
-  - name: Facebook
-    url: 'https://www.facebook.com/Liam.Fate.Selvey/'
-    type: external
   - name: Twitter
     url: 'https://twitter.com/LiamFateSelvey'
     type: external
