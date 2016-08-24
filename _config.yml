@@ -31,5 +31,8 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/LiamFateSelvey'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/liamfateselvey/'
+    type: external
 title: Journey of a Juggler
 description: Tall Tales Truthfully Told
