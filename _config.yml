@@ -31,5 +31,8 @@ navigation:
   - name: Hire Me!
     url: dangerjugglingshow.com
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/Danger.Juggling.Show/'
+    type: external
 title: Journey of a Juggler
 description: Tall Tales Truthfully Told
